@@ -1,0 +1,3 @@
+#!/Users/dmitry/Documents/Clemson/AML/project/bin/python3
+from numba.pycc import main
+main()
